@@ -12,7 +12,7 @@ Version 1.0
  
  # What it Does
  
-upath examines your environment variable, noting the order of the colon separated components. It emits the same ordering, with all of the duplicate directories eliminated.
+upath examines your environment variable, noting the order of the colon separated components. It then emits the componentss with the same ordering, but with duplicate directories eliminated.
 
 After adding a directory to PATH for example, you can eliminate duplicates by doing:
 
