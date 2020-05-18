@@ -8,7 +8,6 @@ Version 1.0
  
  By default, environment variable PATH is assumed:
  
- upath
  
  # What it Does
  
