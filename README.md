@@ -24,7 +24,7 @@ LD_LIBRARY_PATH=$(upath LD_LIBRARY_PATH)
 
 # Installation
 
- 1. git clone
- 1. cd ./....
+ 1. git clone https://github.com/ve3wwg/upath.git
+ 1. cd ./upath
  1. make 
  1. sudo cp upath /usr/local/bin/upath
