@@ -20,3 +20,11 @@ PATH=$(upath)
 Or for a different variable LD_LIBRARY_PATH:
 
 LD_LIBRARY_PATH=$(upath LD_LIBRARY_PATH)
+
+
+# Installation
+
+ 1. git clone
+ 1. cd ./....
+ 1. make 
+ 1. sudo cp upath /usr/local/bin/upath
